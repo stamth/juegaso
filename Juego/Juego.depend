@@ -1,0 +1,167 @@
+# depslib dependency file v1.0
+1602455274 source:c:\users\usuario\desktop\tp juego\juego\main.cpp
+	<iostream>
+	"Motor.h"
+
+1602703251 source:c:\users\usuario\desktop\tp juego\juego\fuentes\nucleo\motor.cpp
+	<iostream>
+	"Motor.h"
+	"AdmTexturas.h"
+	"Warrior.h"
+
+1602455275 c:\users\usuario\desktop\tp juego\juego\fuentes\nucleo\motor.h
+	"SDL.h"
+	"SDL_image.h"
+
+1602460182 source:c:\users\usuario\desktop\tp juego\juego\fuentes\graficos\texturas.cpp
+	"Texturas.h"
+	"Motor.h"
+
+1602460182 c:\users\usuario\desktop\tp juego\juego\fuentes\graficos\texturas.h
+	<string>
+	"SDL.h"
+	<map>
+
+1602533780 c:\users\usuario\desktop\tp juego\juego\fuentes\graficos\admtexturas.h
+	<string>
+	"SDL.h"
+	<map>
+
+1602533780 source:c:\users\usuario\desktop\tp juego\juego\fuentes\graficos\admtexturas.cpp
+	"AdmTexturas.h"
+	"Motor.h"
+
+1602526238 c:\users\usuario\desktop\tp juego\juego\fuentes\fisicas\transformador.h
+	<iostream>
+	"Vector2D.h"
+
+1602686209 c:\users\usuario\desktop\tp juego\juego\fuentes\fisicas\vector2d.h
+	<iostream>
+
+1602686209 c:\users\usuario\desktop\tp juego\juego\fuentes\fisicas\transform.h
+	<iostream>
+	"Vector2D.h"
+
+1602703250 c:\users\usuario\desktop\tp juego\juego\fuentes\personajes\warrior.h
+	"Personaje.h"
+
+1602706141 c:\users\usuario\desktop\tp juego\juego\fuentes\personajes\personaje.h
+	<iostream>
+	"GameObject.h"
+	<string>
+
+1602707247 c:\users\usuario\desktop\tp juego\juego\fuentes\objeto\gameobject.h
+	<iostream>
+	"IObject.h"
+	"Transform.h"
+	"SDL.h"
+
+1602689645 c:\users\usuario\desktop\tp juego\juego\fuentes\objeto\iobject.h
+
+1602708495 source:c:\users\usuario\desktop\tp juego\juego\fuentes\personajes\warrior.cpp
+	"Warrior.h"
+	"AdmTexturas.h"
+	"SDL.h"
+
+1602533780 source:c:\users\usuario\documents\github\gatuno\juego\fuentes\graficos\admtexturas.cpp
+	"AdmTexturas.h"
+	"Motor.h"
+
+1602533780 c:\users\usuario\documents\github\gatuno\juego\fuentes\graficos\admtexturas.h
+	<string>
+	"SDL.h"
+	<map>
+
+1602455275 c:\users\usuario\documents\github\gatuno\juego\fuentes\nucleo\motor.h
+	"SDL.h"
+	"SDL_image.h"
+
+1602710269 source:c:\users\usuario\documents\github\gatuno\juego\fuentes\nucleo\motor.cpp
+	<iostream>
+	"Motor.h"
+	"AdmTexturas.h"
+	"Warrior.h"
+
+1602703250 c:\users\usuario\documents\github\gatuno\juego\fuentes\personajes\warrior.h
+	"Personaje.h"
+
+1602706141 c:\users\usuario\documents\github\gatuno\juego\fuentes\personajes\personaje.h
+	<iostream>
+	"GameObject.h"
+	<string>
+
+1602707247 c:\users\usuario\documents\github\gatuno\juego\fuentes\objeto\gameobject.h
+	<iostream>
+	"IObject.h"
+	"Transform.h"
+	"SDL.h"
+
+1602689645 c:\users\usuario\documents\github\gatuno\juego\fuentes\objeto\iobject.h
+
+1602686209 c:\users\usuario\documents\github\gatuno\juego\fuentes\fisicas\transform.h
+	<iostream>
+	"Vector2D.h"
+
+1602686209 c:\users\usuario\documents\github\gatuno\juego\fuentes\fisicas\vector2d.h
+	<iostream>
+
+1602708495 source:c:\users\usuario\documents\github\gatuno\juego\fuentes\personajes\warrior.cpp
+	"Warrior.h"
+	"AdmTexturas.h"
+	"SDL.h"
+
+1602455274 source:c:\users\usuario\documents\github\gatuno\juego\main.cpp
+	<iostream>
+	"Motor.h"
+
+1602533782 source:c:\users\tomas\desktop\juego\fuentes\graficos\admtexturas.cpp
+	"AdmTexturas.h"
+	"Motor.h"
+
+1602533782 c:\users\tomas\desktop\juego\fuentes\graficos\admtexturas.h
+	<string>
+	"SDL.h"
+	<map>
+
+1602455276 c:\users\tomas\desktop\juego\fuentes\nucleo\motor.h
+	"SDL.h"
+	"SDL_image.h"
+
+1602710270 source:c:\users\tomas\desktop\juego\fuentes\nucleo\motor.cpp
+	<iostream>
+	"Motor.h"
+	"AdmTexturas.h"
+	"Warrior.h"
+
+1602703252 c:\users\tomas\desktop\juego\fuentes\personajes\warrior.h
+	"Personaje.h"
+
+1602706142 c:\users\tomas\desktop\juego\fuentes\personajes\personaje.h
+	<iostream>
+	"GameObject.h"
+	<string>
+
+1602707248 c:\users\tomas\desktop\juego\fuentes\objeto\gameobject.h
+	<iostream>
+	"IObject.h"
+	"Transform.h"
+	"SDL.h"
+
+1602689646 c:\users\tomas\desktop\juego\fuentes\objeto\iobject.h
+
+1602686210 c:\users\tomas\desktop\juego\fuentes\fisicas\transform.h
+	<iostream>
+	"Vector2D.h"
+
+1602686210 c:\users\tomas\desktop\juego\fuentes\fisicas\vector2d.h
+	<iostream>
+
+1602708496 source:c:\users\tomas\desktop\juego\fuentes\personajes\warrior.cpp
+	"Warrior.h"
+	"AdmTexturas.h"
+	"SDL.h"
+
+1602455276 source:c:\users\tomas\desktop\juego\main.cpp
+	<iostream>
+	"Motor.h"
+

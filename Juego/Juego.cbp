@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Juego" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Juego" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="Fuentes/Nucleo" />
+					<Add directory="Fuentes/Graficos" />
+					<Add directory="Fuentes/Fisicas" />
+					<Add directory="Fuentes/Objeto" />
+					<Add directory="Fuentes/Personajes" />
+					<Add directory="Fuentes/Objecto" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Juego" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="Fuentes/Nucleo" />
+					<Add directory="Fuentes/Graficos" />
+					<Add directory="Fuentes/Fisicas" />
+					<Add directory="Fuentes/Objeto" />
+					<Add directory="Fuentes/Personajes" />
+					<Add directory="Fuentes/Objecto" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Fuentes/Fisicas/Transform.h" />
+		<Unit filename="Fuentes/Fisicas/Vector2D.h" />
+		<Unit filename="Fuentes/Graficos/AdmTexturas.cpp" />
+		<Unit filename="Fuentes/Graficos/AdmTexturas.h" />
+		<Unit filename="Fuentes/Nucleo/Motor.cpp" />
+		<Unit filename="Fuentes/Nucleo/Motor.h" />
+		<Unit filename="Fuentes/Objeto/GameObject.h" />
+		<Unit filename="Fuentes/Objeto/IObject.h" />
+		<Unit filename="Fuentes/Personajes/Personaje.h" />
+		<Unit filename="Fuentes/Personajes/Warrior.cpp" />
+		<Unit filename="Fuentes/Personajes/Warrior.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
